@@ -10,5 +10,5 @@
 <br>
 <div align=center>
   <a href="https://twitch.com/uwrekening"><img src="https://img.icons8.com/?size=100&id=18103&format=png&color=000000" width=30/></a>
-  <a href="https://twitch.com/uwrekening"><img src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000" width=30/></a>
+  <a href="https://instagram.com/uwrekening"><img src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000" width=30/></a>
 </div>
